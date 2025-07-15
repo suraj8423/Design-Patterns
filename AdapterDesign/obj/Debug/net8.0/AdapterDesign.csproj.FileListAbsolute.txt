@@ -1,0 +1,4 @@
+C:\Personal\Design-Patterns\AdapterDesign\obj\Debug\net8.0\AdapterDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Design-Patterns\AdapterDesign\obj\Debug\net8.0\AdapterDesign.AssemblyInfoInputs.cache
+C:\Personal\Design-Patterns\AdapterDesign\obj\Debug\net8.0\AdapterDesign.AssemblyInfo.cs
+C:\Personal\Design-Patterns\AdapterDesign\obj\Debug\net8.0\AdapterDesign.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Personal\Design-Patterns\Examples\bin\Debug\net8.0\Examples.exe
+C:\Personal\Design-Patterns\Examples\bin\Debug\net8.0\Examples.deps.json
+C:\Personal\Design-Patterns\Examples\bin\Debug\net8.0\Examples.runtimeconfig.json
+C:\Personal\Design-Patterns\Examples\bin\Debug\net8.0\Examples.dll
+C:\Personal\Design-Patterns\Examples\bin\Debug\net8.0\Examples.pdb
+C:\Personal\Design-Patterns\Examples\obj\Debug\net8.0\Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Design-Patterns\Examples\obj\Debug\net8.0\Examples.AssemblyInfoInputs.cache
+C:\Personal\Design-Patterns\Examples\obj\Debug\net8.0\Examples.AssemblyInfo.cs
+C:\Personal\Design-Patterns\Examples\obj\Debug\net8.0\Examples.csproj.CoreCompileInputs.cache
+C:\Personal\Design-Patterns\Examples\obj\Debug\net8.0\Examples.dll
+C:\Personal\Design-Patterns\Examples\obj\Debug\net8.0\refint\Examples.dll
+C:\Personal\Design-Patterns\Examples\obj\Debug\net8.0\Examples.pdb
+C:\Personal\Design-Patterns\Examples\obj\Debug\net8.0\Examples.genruntimeconfig.cache
+C:\Personal\Design-Patterns\Examples\obj\Debug\net8.0\ref\Examples.dll

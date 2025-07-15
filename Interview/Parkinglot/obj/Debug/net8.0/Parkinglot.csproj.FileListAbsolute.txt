@@ -1,0 +1,14 @@
+C:\Personal\Design-Patterns\interview\Parkinglot\obj\Debug\net8.0\Parkinglot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Design-Patterns\interview\Parkinglot\obj\Debug\net8.0\Parkinglot.AssemblyInfoInputs.cache
+C:\Personal\Design-Patterns\interview\Parkinglot\obj\Debug\net8.0\Parkinglot.AssemblyInfo.cs
+C:\Personal\Design-Patterns\interview\Parkinglot\obj\Debug\net8.0\Parkinglot.csproj.CoreCompileInputs.cache
+C:\Personal\Design-Patterns\interview\Parkinglot\bin\Debug\net8.0\Parkinglot.exe
+C:\Personal\Design-Patterns\interview\Parkinglot\bin\Debug\net8.0\Parkinglot.deps.json
+C:\Personal\Design-Patterns\interview\Parkinglot\bin\Debug\net8.0\Parkinglot.runtimeconfig.json
+C:\Personal\Design-Patterns\interview\Parkinglot\bin\Debug\net8.0\Parkinglot.dll
+C:\Personal\Design-Patterns\interview\Parkinglot\bin\Debug\net8.0\Parkinglot.pdb
+C:\Personal\Design-Patterns\interview\Parkinglot\obj\Debug\net8.0\Parkinglot.dll
+C:\Personal\Design-Patterns\interview\Parkinglot\obj\Debug\net8.0\refint\Parkinglot.dll
+C:\Personal\Design-Patterns\interview\Parkinglot\obj\Debug\net8.0\Parkinglot.pdb
+C:\Personal\Design-Patterns\interview\Parkinglot\obj\Debug\net8.0\Parkinglot.genruntimeconfig.cache
+C:\Personal\Design-Patterns\interview\Parkinglot\obj\Debug\net8.0\ref\Parkinglot.dll

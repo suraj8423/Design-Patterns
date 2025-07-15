@@ -1,0 +1,14 @@
+C:\Personal\Design-Patterns\interview\TicTacToe\obj\Debug\net8.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Design-Patterns\interview\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Personal\Design-Patterns\interview\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfo.cs
+C:\Personal\Design-Patterns\interview\TicTacToe\obj\Debug\net8.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Personal\Design-Patterns\interview\TicTacToe\bin\Debug\net8.0\TicTacToe.exe
+C:\Personal\Design-Patterns\interview\TicTacToe\bin\Debug\net8.0\TicTacToe.deps.json
+C:\Personal\Design-Patterns\interview\TicTacToe\bin\Debug\net8.0\TicTacToe.runtimeconfig.json
+C:\Personal\Design-Patterns\interview\TicTacToe\bin\Debug\net8.0\TicTacToe.dll
+C:\Personal\Design-Patterns\interview\TicTacToe\bin\Debug\net8.0\TicTacToe.pdb
+C:\Personal\Design-Patterns\interview\TicTacToe\obj\Debug\net8.0\TicTacToe.dll
+C:\Personal\Design-Patterns\interview\TicTacToe\obj\Debug\net8.0\refint\TicTacToe.dll
+C:\Personal\Design-Patterns\interview\TicTacToe\obj\Debug\net8.0\TicTacToe.pdb
+C:\Personal\Design-Patterns\interview\TicTacToe\obj\Debug\net8.0\TicTacToe.genruntimeconfig.cache
+C:\Personal\Design-Patterns\interview\TicTacToe\obj\Debug\net8.0\ref\TicTacToe.dll

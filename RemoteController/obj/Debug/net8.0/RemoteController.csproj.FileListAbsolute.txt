@@ -1,0 +1,14 @@
+C:\Personal\Design-Patterns\RemoteController\obj\Debug\net8.0\RemoteController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Design-Patterns\RemoteController\obj\Debug\net8.0\RemoteController.AssemblyInfoInputs.cache
+C:\Personal\Design-Patterns\RemoteController\obj\Debug\net8.0\RemoteController.AssemblyInfo.cs
+C:\Personal\Design-Patterns\RemoteController\obj\Debug\net8.0\RemoteController.csproj.CoreCompileInputs.cache
+C:\Personal\Design-Patterns\RemoteController\bin\Debug\net8.0\RemoteController.exe
+C:\Personal\Design-Patterns\RemoteController\bin\Debug\net8.0\RemoteController.deps.json
+C:\Personal\Design-Patterns\RemoteController\bin\Debug\net8.0\RemoteController.runtimeconfig.json
+C:\Personal\Design-Patterns\RemoteController\bin\Debug\net8.0\RemoteController.dll
+C:\Personal\Design-Patterns\RemoteController\bin\Debug\net8.0\RemoteController.pdb
+C:\Personal\Design-Patterns\RemoteController\obj\Debug\net8.0\RemoteController.dll
+C:\Personal\Design-Patterns\RemoteController\obj\Debug\net8.0\refint\RemoteController.dll
+C:\Personal\Design-Patterns\RemoteController\obj\Debug\net8.0\RemoteController.pdb
+C:\Personal\Design-Patterns\RemoteController\obj\Debug\net8.0\RemoteController.genruntimeconfig.cache
+C:\Personal\Design-Patterns\RemoteController\obj\Debug\net8.0\ref\RemoteController.dll

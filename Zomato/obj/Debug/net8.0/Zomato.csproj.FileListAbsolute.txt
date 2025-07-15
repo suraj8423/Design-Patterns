@@ -1,0 +1,14 @@
+C:\Personal\Design-Patterns\Zomato\bin\Debug\net8.0\Zomato.exe
+C:\Personal\Design-Patterns\Zomato\bin\Debug\net8.0\Zomato.deps.json
+C:\Personal\Design-Patterns\Zomato\bin\Debug\net8.0\Zomato.runtimeconfig.json
+C:\Personal\Design-Patterns\Zomato\bin\Debug\net8.0\Zomato.dll
+C:\Personal\Design-Patterns\Zomato\bin\Debug\net8.0\Zomato.pdb
+C:\Personal\Design-Patterns\Zomato\obj\Debug\net8.0\Zomato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Design-Patterns\Zomato\obj\Debug\net8.0\Zomato.AssemblyInfoInputs.cache
+C:\Personal\Design-Patterns\Zomato\obj\Debug\net8.0\Zomato.AssemblyInfo.cs
+C:\Personal\Design-Patterns\Zomato\obj\Debug\net8.0\Zomato.csproj.CoreCompileInputs.cache
+C:\Personal\Design-Patterns\Zomato\obj\Debug\net8.0\Zomato.dll
+C:\Personal\Design-Patterns\Zomato\obj\Debug\net8.0\refint\Zomato.dll
+C:\Personal\Design-Patterns\Zomato\obj\Debug\net8.0\Zomato.pdb
+C:\Personal\Design-Patterns\Zomato\obj\Debug\net8.0\Zomato.genruntimeconfig.cache
+C:\Personal\Design-Patterns\Zomato\obj\Debug\net8.0\ref\Zomato.dll
